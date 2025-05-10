@@ -24,6 +24,7 @@ Lista de conteúdos desenvolvidos ao longo da disciplina:
 - *[Conteúdo do dia 22/04/2025](https://github.com/isaquesv/LdBD-tarefas/blob/master/src/015-22_04_2025.md)*
 - *[Conteúdo do dia 28/04/2025](https://github.com/isaquesv/LdBD-tarefas/blob/master/src/016-28_04_2025.md)*
 - *[Conteúdo do dia 29/04/2025](https://github.com/isaquesv/LdBD-tarefas/blob/master/src/017-29_04_2025.md)*
+- *[Conteúdo do dia 06/05/2025](https://github.com/isaquesv/LdBD-tarefas/blob/master/src/018-06_05_2025.md)*
 
 ---
 
